@@ -8,8 +8,8 @@
 
 ## Outline
 
-* Homework 2 walkthrough
-* Felix talks about HTTP requests [Slides](https://drive.google.com/file/d/1Cgoinn4Efyw_8vUiEqc39XEAf5WsP12z/view?usp=sharing)
+* Homework 2 walkthrough 
+* Felix talks about HTTP requests [Slides](https://drive.google.com/file/d/1Cgoinn4Efyw_8vUiEqc39XEAf5WsP12z/view?usp=sharing) [Crawler Example] (Crawler_Example.ipynb)
 * [Demo HTTP requests](Lecture.ipynb)
 
 
