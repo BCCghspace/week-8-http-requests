@@ -15,7 +15,7 @@
 
 ## Lab Outline
 
-[Lab.md](Lab.md)
+[Lab](Lab.ipynb)
 
 * API review
 * Anatomy of an API request
