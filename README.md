@@ -6,11 +6,23 @@
 * Homework 2 is graded. Please double check I added up your score correctly. Comment on the homework in GitHub if you have questions.
 * Trouble with pgAdmin? A few of you are getting errors. Please let me know what's going on.
 
-## Outline
+## Lecture Outline
 
 * Homework 2 walkthrough
 * Felix talks about HTTP requests
 * [Demo HTTP requests](Lecture.ipynb)
+
+## Lab Outline
+
+[Lab.md](Lab.md)
+
+* API review
+* Anatomy of an API request
+* Explore some APIs
+  * MapBox Geocoding API
+  * MapBox Directions API
+  * MapBox Static Maps API
+* Creating re-usable functions
 
 
 ## Homework
